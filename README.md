@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saksham Soni.
+- 👋 Hi there, Hello, I’m Saksham Soni.
 - 👀 I’m interested in Java, C++, Competetive Programming also as health is important, Calisthenics😜.
 - 🌱 I’m currently learning Kotlin.
 - 📫 I am available at saksham7soni@gmail.com
